@@ -9,3 +9,5 @@ This repository contains back-end web development projects completed as part of 
 | `python_variable_annotations` | Type annotations in Python 3 using the `typing` module |
 | `python_async_function` | Asynchronous programming in Python 3 using `asyncio` |
 | `python_async_comprehension` | Async generators and async comprehensions in Python 3 |
+| `pagination` | Pagination techniques including simple, hypermedia, and deletion-resilient pagination |
+| `NoSQL` | NoSQL database operations using MongoDB shell scripts and PyMongo Python scripts |
