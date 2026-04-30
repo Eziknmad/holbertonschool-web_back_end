@@ -3,8 +3,7 @@ export default function taskBlock(trueOrFalse) {
   const task2 = true;
 
   if (trueOrFalse) {
-    const task = true;
-    const task2 = false;
+    // const is block-scoped: inner declarations do not overwrite outer ones
   }
 
   return [task, task2];
